@@ -1,4 +1,4 @@
-# Project 1: MI3 Group5
+# Project 2: MI3 Group5
 MI3 Data Analysis for Project 2 Group 5 for DS 4002
 
 Team Members:
