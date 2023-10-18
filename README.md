@@ -37,10 +37,10 @@ https://data.mendeley.com/datasets/4drtyfjtfy/1
 View figures here: 
 
 ## References
-[1] Ajayi, Gbeminiyi (2018), “Multi-class Weather Dataset for Image Classification”, Mendeley
-Data, V1, doi: 10.17632/4drtyfjtfy.
-[2] Rutledge, Kim (2022). “Weather”, National Geographic,
-https://education.nationalgeographic.org/resource/weather/
+[1] Ajayi, Gbeminiyi (2018), “Multi-class Weather Dataset for Image Classification”, Mendeley Data, V1, doi: 10.17632/4drtyfjtfy.
+
+[2] Rutledge, Kim (2022). “Weather”, National Geographic, https://education.nationalgeographic.org/resource/weather/
+
 [3] Ongoma, Victor (2022). “The science of weather forecasting: what it takes and why it’s so
 hard to get right”, The Conversation, https://theconversation.com/the-science-of-weather-
 forecasting-what-it-takes-and-why-its-so-hard-to-get-right-
