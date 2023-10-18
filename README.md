@@ -23,8 +23,8 @@ This repository contains 2 markdown files: README.md and LICENSE.md, as well as 
 | Image       | jpg           | Image of a weather condition (labeled in image name)   |
 
 
-Data file can be downloaded through this google drive link:
-
+Data file can be downloaded through this Mendeley Data link:
+https://data.mendeley.com/datasets/4drtyfjtfy/1 
 
 
 ## Figures
@@ -37,7 +37,15 @@ Data file can be downloaded through this google drive link:
 View figures here: 
 
 ## References
-
+[1] Ajayi, Gbeminiyi (2018), “Multi-class Weather Dataset for Image Classification”, Mendeley
+Data, V1, doi: 10.17632/4drtyfjtfy.
+[2] Rutledge, Kim (2022). “Weather”, National Geographic,
+https://education.nationalgeographic.org/resource/weather/
+[3] Ongoma, Victor (2022). “The science of weather forecasting: what it takes and why it’s so
+hard to get right”, The Conversation, https://theconversation.com/the-science-of-weather-
+forecasting-what-it-takes-and-why-its-so-hard-to-get-right-
+175740#:~:text=Weather%20forecasting%20is%20an%20important,vital%20in%20the%
+20coming%20years.
 
 
 ### Previous Submissions
