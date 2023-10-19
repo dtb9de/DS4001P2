@@ -32,7 +32,10 @@ https://data.mendeley.com/datasets/4drtyfjtfy/1
 ### Project 2 Figures Table of Contents
 | Figure Name      | Description |
 | ----------- | ----------- |
-
+| Image_Set_1.png | |
+| Image_Set_2.png | |
+| Image_Set_3.png | | 
+| Training_Validation_Graph.png | |
 
 View figures here: 
 
