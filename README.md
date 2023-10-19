@@ -32,9 +32,9 @@ https://data.mendeley.com/datasets/4drtyfjtfy/1
 ### Project 2 Figures Table of Contents
 | Figure Name      | Description |
 | ----------- | ----------- |
-| Image_Set_1.png | |
-| Image_Set_2.png | |
-| Image_Set_3.png | | 
+| Image_Set_1.png | First sample run of predictive model, contains 9 images and its predictions|
+| Image_Set_2.png | Second sample run of predictive model, contains 9 images and its predictions|
+| Image_Set_3.png | Third samplpe run of predictive model, contains 9 images and its predictions| 
 | Training_Validation_Graph.png | |
 
 View figures here: 
