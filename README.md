@@ -89,5 +89,6 @@ forecasting-what-it-takes-and-why-its-so-hard-to-get-right-
 
 
 ### Previous Submissions
-MI1:
-MI2: 
+MI1:  https://myuva-my.sharepoint.com/:w:/r/personal/srs8yy_virginia_edu/Documents/MI2%20-%20Project%202.docx?d=wf0ca916897954c6d8f498221fbc6e180&csf=1&web=1&e=8x9Ol0
+MI2:  https://myuva-my.sharepoint.com/:w:/r/personal/srs8yy_virginia_edu/Documents/MI2%20-%20Project%202.docx?d=wf0ca916897954c6d8f498221fbc6e180&csf=1&web=1&e=8x9Ol0
+
