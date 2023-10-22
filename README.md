@@ -36,7 +36,7 @@ https://data.mendeley.com/datasets/4drtyfjtfy/1
 | Image_Set_2.png | Second sample run of predictive model, contains 9 images and its predictions, all the predictions were correct|
 | Image_Set_3.png | Third sample run of predictive model, contains 9 images and its predictions, all the preditions were correct| 
 | Training_Validation_Graph.png | Learning curves for the predictive model, created by plotting training and validation errors (losses) and accuracies against the number of epochs|
-| Model Comparison.png | |
+| Model Comparison.png | Learning curves showing the loss and accuracy for our predictive models|
 
 View figures here: 
 
