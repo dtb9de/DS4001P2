@@ -32,11 +32,11 @@ https://data.mendeley.com/datasets/4drtyfjtfy/1
 ### Project 2 Figures Table of Contents
 | Figure Name      | Description |
 | ----------- | ----------- |
-| Image_Set_1.png | First sample run of predictive model, contains 9 images and its predictions|
-| Image_Set_2.png | Second sample run of predictive model, contains 9 images and its predictions|
-| Image_Set_3.png | Third sample run of predictive model, contains 9 images and its predictions| 
+| Image_Set_1.png | First sample run of predictive model, contains 9 images and its predictions, all the predictions were correct|
+| Image_Set_2.png | Second sample run of predictive model, contains 9 images and its predictions, all the predictions were correct|
+| Image_Set_3.png | Third sample run of predictive model, contains 9 images and its predictions, all the preditions were correct| 
 | Training_Validation_Graph.png | Learning curves for the predictive model, created by plotting training and validation errors (losses) and accuracies against the number of epochs|
-| Model Comparison.png | 
+| Model Comparison.png | |
 
 View figures here: 
 
