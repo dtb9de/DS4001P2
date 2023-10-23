@@ -283,7 +283,7 @@ https://data.mendeley.com/datasets/4drtyfjtfy/1
 | Training_Validation_Graph.png | Learning curves for the predictive model, created by plotting training and validation errors (losses) and accuracies against the number of epochs|
 | Model Comparison.png | Learning curves showing the loss and accuracy for our predictive models|
 
-
+View figures here: 
 
 Model Values
 Model: "sequential"
