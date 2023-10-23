@@ -287,37 +287,6 @@ https://data.mendeley.com/datasets/4drtyfjtfy/1
 
 Model Values
 Model: "sequential"
-_________________________________________________________________
- Layer (type)                Output Shape              Param #   
-=================================================================
- rescaling (Rescaling)       (None, 180, 180, 3)       0         
-                                                                 
- conv2d (Conv2D)             (None, 180, 180, 16)      448       
-                                                                 
- max_pooling2d (MaxPooling2  (None, 90, 90, 16)        0         
- D)                                                              
-                                                                 
- conv2d_1 (Conv2D)           (None, 90, 90, 32)        4640      
-                                                                 
- max_pooling2d_1 (MaxPoolin  (None, 45, 45, 32)        0         
- g2D)                                                            
-                                                                 
- conv2d_2 (Conv2D)           (None, 45, 45, 64)        18496     
-                                                                 
- max_pooling2d_2 (MaxPoolin  (None, 22, 22, 64)        0         
- g2D)                                                            
-                                                                 
- flatten (Flatten)           (None, 30976)             0         
-                                                                 
- dense (Dense)               (None, 128)               3965056   
-                                                                 
- dense_1 (Dense)             (None, 3)                 387       
-                                                                 
-=================================================================
-Total params: 3989027 (15.22 MB)
-Trainable params: 3989027 (15.22 MB)
-Non-trainable params: 0 (0.00 Byte)
-_________________________________________________________________
 
 
 ## References
